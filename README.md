@@ -11,4 +11,4 @@ Website with a lot of features based on [bootstrap](https://getbootstrap.com).
 >
 > Released under [MIT](https://choosealicense.com/licenses/mit/) License.
 >
-> <> with ❤❤❤ for [IntelliJ IDEA](https://atom.io)
+> <> with ❤❤❤ for [Atom](https://atom.io)
